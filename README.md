@@ -1,8 +1,6 @@
 # Challenge 4 | Back End | Api Rest | Foro Alura
 
-Demostrativo de la aplicación:
-
-https://github.com/Guipray/challenge-one-forum-alura/assets/109701399/2dcdfa9b-95dc-4978-9086-ff631eb8009
+https://github.com/matayus54/Challenge4_JavaConSpring_API-Rest-Alura/assets/33961465/b50c4eb8-463b-4d8b-9593-cda1f9db691d
 
 ### Tecnologias utilizadas:
 
